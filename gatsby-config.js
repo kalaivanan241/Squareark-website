@@ -21,5 +21,6 @@ module.exports = {
         configPath: require.resolve(`./src/i18n/config.json`),
       },
     },
+    `gatsby-plugin-sass`,
   ],
 };
